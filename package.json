@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "argparse": "^1.0.10",
-    "puppeteer": "^1.11.0"
+    "get-pixels": "^3.3.2",
+    "puppeteer": "^1.14.0",
+    "sharp": "^0.22.0"
   }
 }
