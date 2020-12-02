@@ -1,4 +1,4 @@
-#!/usr/bin/node --experimental-modules
+#!/usr/bin/env node
 
 import fs from 'fs';
 import process from 'process';
@@ -219,3 +219,4 @@ main()
         process.exit(1);
     })
 ;
+

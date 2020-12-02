@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "argparse": "^1.0.10",
-    "get-pixels": "^3.3.2",
-    "puppeteer": "^1.14.0",
-    "sharp": "^0.22.0"
+    "argparse": "^2.0.1",
+    "get-pixels": "*",
+    "puppeteer": "^5.5.0",
+    "sharp": "^0.26.3"
   }
 }
